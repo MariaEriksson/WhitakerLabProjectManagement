@@ -1,5 +1,6 @@
 # Mentoring Sessions with Ismael
 
+* [03 March 2021](#date-03-march-2021)
 * [17 February 2021](#date-17-february-2021)
 
 **Why?** Sharing of knowledge relating to ethics, research practises and health care data
@@ -14,10 +15,23 @@
 
 ## Template
 
+#### Date: 
 #### What brought you joy this week?
 #### What did you achieve?
 #### What did you struggle with?
 #### Any other topics
+#### Next meeting
+
+## Date: 03 March 2021
+#### What brought you joy this week?
+* IKG: Confirming that LSE is postpone for a year!
+  * Also, picking up German again and being invited to consider a casual research assistant role!
+#### What did you achieve?
+* IKG: I had the week off, so... plenitude and reconnection with the soul, or something.
+#### What did you struggle with?
+* IKG: Disconnecting from work uring holidays is especially hard when work is at home...
+#### Any other topics
+* IKG: Not really!
 #### Next meeting
 
 ## Date: 17 February 2021
